@@ -8,3 +8,5 @@
 - JS_06 - Extends, Super(類別繼承基本觀念)
 - JS_07 - Prototype Chain(原型鍊)
 - JS_08 - Static Method(靜態方法)
+- JS_09 - 非同步
+- callback.htm - 處理非同步程式：回呼函式
