@@ -7,3 +7,4 @@
 - JS_05 - Method(類別中定義、呼叫方法)
 - JS_06 - Extends, Super(類別繼承基本觀念)
 - JS_07 - Prototype Chain(原型鍊)
+- JS_08 - Static Method(靜態方法)
